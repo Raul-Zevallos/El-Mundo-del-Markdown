@@ -1,5 +1,7 @@
 # Raul Zevallos 
-## El Camino al Full Stack
+## Sobre mi 
+Tengo 28 años de argentina, buenos aires. En busca de mi primer trabajo it, aprendiendo de manera autodidacta. 
+### El Camino al Full Stack
 Aprendiendo las bases de fronted, backed y programacion y las nuevas tecnologias a travez del bootcamp 100% gratuito de **Guillermo Rodas** tambien conocico como la **Undefined
 Academy**. 
 
@@ -16,3 +18,5 @@ Academy**.
 | ------ | ------ |
 | alias npmd | npm run dev (Inicio de un proyecto especifico) |
 | cl | Clear(limpieza de la pantalla de la terminal) |
+
+link de mi perfil: https://github.com/Raul-Zevallos
